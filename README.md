@@ -13,8 +13,7 @@ eventually improve patient outcomes.
 
 Dataset
 
-https://www.kaggle.com/code/vexxingbanana/retinal-disease-classifica
-tion/data
+https://www.kaggle.com/code/vexxingbanana/retinal-disease-classification/data
 The training dataset consists of 1920 sample images, whereas the test set
 and evaluation set both contain 640 sample images.
 The three datasets are each accompanied by a CSV file.
